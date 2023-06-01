@@ -4,7 +4,7 @@ import { Flex } from "@chakra-ui/react";
 
 export const Dashboard = () => {
     return (
-        <Flex direction='row'>
+        <Flex>
             {/* Component Global - Sidebar */}
             <Sidebar />
             {/* Component Global - Header */}

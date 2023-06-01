@@ -4,7 +4,7 @@ import { Accordion } from "../../widget/Accordion";
 
 export const Sidebar = () => {
     return (
-        <Flex h='100vh' w='80' bg='original.700' direction='column'>
+        <Flex h='100dvh' w='80' bg='original.700' direction='column'>
             <Flex h='20' justify='center' align='center' p='4'>
                 <Image src='/Logo.png' w='150px' />
             </Flex>
